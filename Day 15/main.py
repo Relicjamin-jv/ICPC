@@ -4,7 +4,7 @@ import heapq as heap
 
 
 def main():
-    input_file_path = os.path.join('input')
+    input_file_path = os.path.join('Day 15','input')
     outfile = open(input_file_path, 'r')
     data = outfile.readlines()
     arr = []
